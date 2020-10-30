@@ -43,6 +43,7 @@ First, if you've made any changes within the repo locally, i.e., you've modified
 $ git add -A
 $ git commit -m "make unnecessary changes"
 ```
+This is an unnecessary change
 
 With local changes committed, you can now pull the updates from the Github lesson repo and merge them into your **local** repo (on your computer):
 ```sh
